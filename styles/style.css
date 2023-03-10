@@ -1,0 +1,9 @@
+@import "banner.css";
+@import "buttons.css";
+@import "footer.css";
+@import "cards.css";
+
+body {
+	margin: 0;
+	background-color: rgb(145, 132, 152);
+}
